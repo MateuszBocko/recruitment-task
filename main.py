@@ -1,6 +1,6 @@
 from file_functions import FileWorker
 from data_functions import SumOfPairs
-
+ 
 def run_application(path_to_file, location_to_save, save_data=True):
     """
     Use created classes to read the data from the file and go through the logic (find pairs of numbers that are equal 12)
