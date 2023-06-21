@@ -1,4 +1,4 @@
-import ast
+import ast 
 
 class SumOfPairs():
     def __init__(self, list_of_numbers):
