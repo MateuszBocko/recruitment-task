@@ -1,7 +1,7 @@
 import os
 import pytest
 import ast
-
+ 
 from main import run_application, location_to_save
 
 def clean_location():
